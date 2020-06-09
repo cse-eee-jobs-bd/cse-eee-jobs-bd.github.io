@@ -4,5 +4,21 @@ title: About me
 subtitle:
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+This is the group for the current and former students of EEE/CS/CSE/ICT dept from any public or private university in Bangladesh to get a suitable job.
+
+RULES : https://www.facebook.com/notes/cseeee-jobs-at-bangladesh/group-rules-updated/1779746738721012/ 
+
+!!! Important - NEW Member Request !!!
+=> Keep your university & subject names publicly visible.
+
+=> We have a strict policy against fake ids and ids with unrealistic names. As this is group connects job seekers with potential employers, allowing such ids open the door for abuse without repercussions. As such, we do not accept request from IDs with unrealistic names, and periodically remove group members with such ID.
+
+=>Read Block Policy in bottom
+Then ask to join the group & wait for our volunteers to approve (max 7days).
+
+=>To ensure being approved in the fastest possible time, please answer the questions that come up when joining the group.
+
+----------------------------
+If you add your friends, make sure (s)he follows group policy. 
+-----------------------------
+ 
