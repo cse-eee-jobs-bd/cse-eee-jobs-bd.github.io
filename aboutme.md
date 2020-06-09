@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Group
+title: About me
 subtitle:
 ---
 
