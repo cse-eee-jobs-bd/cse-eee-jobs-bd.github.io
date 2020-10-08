@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About CSE/EEE Jobs in Bangladesh
 subtitle: About CSE/EEE Jobs in Bangladesh
 ---
 
