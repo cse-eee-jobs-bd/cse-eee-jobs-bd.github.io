@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: About CSE/EEE Jobs in Bangladesh
 ---
 
 This is the group for the current and former students of EEE/CS/CSE/ICT dept from any public or private university in Bangladesh to get a suitable job.
