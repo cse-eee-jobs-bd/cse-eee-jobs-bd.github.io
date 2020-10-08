@@ -7,7 +7,7 @@
 url: "https://cse-eee-jobs-bd.github.io"
 baseurl: ""
 header: yes
-header_med: img/avatar.jpg
+header_med: /img/avatar.jpg
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
