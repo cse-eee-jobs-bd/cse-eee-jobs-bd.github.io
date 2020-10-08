@@ -17,15 +17,17 @@ baseurl: ""
 title: CSE/EEE Jobs in Bangladesh
 
 # Short description of your site
-description: IT Employer-Employee collaboration Platform
+description: Making IT Hiring Simple
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "CSE/EEE Jobs in Bangladesh facebook group"
-  Open Learning: "openlearning"
+  About: "CSE/EEE Jobs in Bangladesh facebook group"
+  Group Rules: "rules"
+  Career Guidelines: "career-guides"
   Projects: "projects"
+nav-search: search
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -207,6 +209,9 @@ prose:
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-github-metadata
+  - jekyll-youtube
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
