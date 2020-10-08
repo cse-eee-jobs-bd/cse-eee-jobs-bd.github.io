@@ -64,10 +64,10 @@ avatar: "/img/avatar.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Shantonu Sarker
-  email: "CSE/EEE Jobs in Bangladesh"
+  email: "cse.eee.jobs.bd@gmail.com"
   github: cse-eee-jobs-bd
   twitter: sarkershantonu
-  linkedin: sarkershantonu
+  linkedin: /groups/4587333/
   xing: sarkershantonu
   stackoverflow: sarkershantonu
 
@@ -86,10 +86,10 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
