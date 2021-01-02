@@ -2,7 +2,7 @@
 
 # Group [Link](https://www.facebook.com/groups/eee.cse)
 
-# Group [Rules](https://www.facebook.com/notes/cseeee-jobs-in-bangladesh/group-rules-updated/1779746738721012/)
+# Group [Rules](https://cse-eee-jobs-bd.github.io/rules)
 # [CV writing skills](https://www.facebook.com/notes/cseeee-jobs-in-bangladesh/cv-writing-skills-by-jalal-uddin/2322323847796629)  by [Jalal Uddin](https://www.facebook.com/jalal.net)
 # [CSE Graduate Checklist](https://trello.com/b/0bKxmpuK/cse-graduate-checklist)
 # ongoing [FAQ](https://www.facebook.com/notes/cseeee-jobs-in-bangladesh/faq/1353620508000306/)
