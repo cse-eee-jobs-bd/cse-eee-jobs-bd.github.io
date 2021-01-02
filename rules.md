@@ -12,12 +12,13 @@ Please don’t post your personal email/phone number publicly in the group.
 While communicating with recruiters, please mention your Latest/Ongoing degree, Subject, Passing year, CGPA/Experience, Interested area.
 For further queries, please communicate with recruiters / individuals by messaging , not wall posting / commenting / liking.
 If you want to follow a post, please go to the post option and activate “Turn on notification” . Do not tag yourself in the post, or write “following”/”f”. This creates Spam comments without adding any real value. 
-Resume
+
+#### Resume
 If you are uploading your CV/Resume to the group, please check out the following for your safety.
 DO NOT Add pictures, mobile numbers, your address or your references’ address. As uploading your resume to the group makes it open to all, this is a security concern for you and your references.
 You can keep your resume in a password protected zipped doc format in the group. You will need to share the password to the doc with the recruiter who asks you.
-Important - for Job Posters
-Guidelines
+
+# Important - for Job Posters : Guidelines
 While posting a job advertisement, please use the following format:
 Job Title & Type of Job.
 Company Name:
@@ -33,10 +34,11 @@ Job Location: a) Fixed Location: Specify Area/City of working location. (Sample:
 Job Nature: (Full-Time / Part-Time / Project Based) 
 Office Hours: a) Working Hours ( i.e. 9AM-5PM / 10AM-6PM)  b) Working days/week (i.e. Monday-Friday/ Sun-Sat). Some offices have recently adopted One fixed holiday/week and a flexible day off. If so, please specify. 
 Salary Range + Benefits: **(We see that recruiters tend to write “Negotiable” in the salary range, and when candidates ask about a salary range and benefit, specify those in comments section. In such cases, if these can be specified then we request you to update them in the original post as well. This way, candidates will not have to search through comments to find these information). 
-Mandates:
+
+### Mandates:
 If you have conditions based on gender, religion , you need to add cause for this.  According to Bangladesh Labor Act 2006,2012, this is forbidden. So, if you have restriction please state why. 
 
-### Note : Common Best practices: 
+### Notes : Common Best practices: 
 Avoid 3rd party links and use direct links of the recruiting company. 
 If you are posting some one’s status. Make sure, people can see (no privacy blocking)
 Avoid mixture language. Use either Bangla or English. 
