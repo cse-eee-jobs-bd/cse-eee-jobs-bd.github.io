@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Job Rules"
-date: "2020-10-08 14:16"
+subtitle: We help startups to find future employees/partners.
 ---
 
 # Important - for Job Posters : Guidelines

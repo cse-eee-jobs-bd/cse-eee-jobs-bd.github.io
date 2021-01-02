@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Career Guidelines"
-date: "2020-10-08 14:16"
+subtitle: We help startups to find future employees/partners.
 ---
 
 ### [Career Path](https://trello.com/b/0bKxmpuK/cse-graduate-checklist)

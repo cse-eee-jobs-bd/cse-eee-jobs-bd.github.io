@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Group Rules"
-date: "2020-10-08 14:16"
+subtitle: We help startups to find future employees/partners.
 ---
 # Important - for Job Posters : Guidelines
 While posting a job advertisement, please use the following format:
