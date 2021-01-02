@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About CSE/EEE Jobs in Bangladesh
-subtitle: About CSE/EEE Jobs in Bangladesh
+title: CSE/EEE Jobs in Bangladesh
+subtitle: We help startups to find future employees/partners. 
 ---
-
+# [Mail](mailto:cse.eee.jobs.bd@gmail.com)
 This is the group for the current and former students of EEE/CS/CSE/ICT dept from any public or private university in Bangladesh to get a suitable job.
 
 RULES : https://www.facebook.com/notes/cseeee-jobs-at-bangladesh/group-rules-updated/1779746738721012/ 
