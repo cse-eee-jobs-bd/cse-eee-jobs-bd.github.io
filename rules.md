@@ -35,12 +35,14 @@ Office Hours: a) Working Hours ( i.e. 9AM-5PM / 10AM-6PM)  b) Working days/week 
 Salary Range + Benefits: **(We see that recruiters tend to write “Negotiable” in the salary range, and when candidates ask about a salary range and benefit, specify those in comments section. In such cases, if these can be specified then we request you to update them in the original post as well. This way, candidates will not have to search through comments to find these information). 
 Mandates:
 If you have conditions based on gender, religion , you need to add cause for this.  According to Bangladesh Labor Act 2006,2012, this is forbidden. So, if you have restriction please state why. 
-Note : Common Best practices: 
+
+### Note : Common Best practices: 
 Avoid 3rd party links and use direct links of the recruiting company. 
 If you are posting some one’s status. Make sure, people can see (no privacy blocking)
 Avoid mixture language. Use either Bangla or English. 
 Be respectful to cultural/religious context while posting job requirements.
-Job Post Update/Deletion Policy:
+
+# Job Post Update/Deletion Policy:
 Sometimes, a job might be posted in the group without some of the specified necessary details. If admins are alerted/aware of such post, they will review the content, alert the recruiter / job poster with necessary details to update and monitor the post.  If within 48 hours of initial contact with poster/recruiter, no feedback is received or the post is not updated, the post will be considered orphaned and will be removed from the group. 
 General Group Guidelines:
 Block Policy
@@ -54,7 +56,8 @@ Posting topic/comments against group's rules. (religious, politics, non CSE/EEE 
 A person who is adding Fake/Spammy members (ID, name, post publishing), being responsible for that. 
 A person/group who is threatening Admins.(spacial case)
 How to Notify Admins for any issue.
-Report Post  
+
+# Report Post  
 Tag any one of them in comments.
 Hash tagging in post comments (like #spam, #admin) 
 Sending them a message in Facebook. (You should know, Facebook puts messages from contacts outside your friends list in message request, so there may be a delay in response).
@@ -75,7 +78,8 @@ We see everyday that members are communicating with each other on specific posts
 - Do not tag other people in the comments section to notify them of a job posting. If you want to share a post with someone, share it with them in inbox. Doing so increases spam comments in a Job posting, and is distracting to many.
 Coming across empty tags without any discussion, the admin panel will remove such comments/replies.
 
-## Note: Remember, as potential recruiters / future colleagues / peers will be able to see what you write here, it will reflect on how you are judged in real life. As this group is used for professional purposes, a negative conduct here has the potential to come back to hurt you later on. As such, please show restraint while expressing your opinion.  Remember, it does not hurt to be polite!
+### Note: 
+Remember, as potential recruiters / future colleagues / peers will be able to see what you write here, it will reflect on how you are judged in real life. As this group is used for professional purposes, a negative conduct here has the potential to come back to hurt you later on. As such, please show restraint while expressing your opinion.  Remember, it does not hurt to be polite!
 
 # Communicating with admin:
 This group has more than 50 thousand members, the group admins can not be expected to know everyone.  As such, when communicating with an admin, please add 2 lines about yourself, and 1 line about your required query. We will try our best to answer ASAP, but this might not be as quick as you expect.  Please be patient, and forgive us for the delay
